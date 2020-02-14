@@ -67,7 +67,7 @@ strings:
     shortVersion:        2.0
     versionedName:       "Vicyos Edition"
     shortVersionedName:  "Vicyos Edition"
-    bootloaderEntryName: VIcyosLinux
+    bootloaderEntryName: VicyosLinux
 #    productUrl:          https://ArcoLinux.info/
 #    supportUrl:          https://ArcoLinuxforum.com/
 #    knownIssuesUrl:      https://ArcoLinux.info/
