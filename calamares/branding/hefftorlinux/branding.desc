@@ -5,7 +5,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  hefftorlinux
+componentName:  vicyoslinux
 
 # This selects between different welcome texts. When false, uses
 # the traditional "Welcome to the %1 installer.", and when true,
@@ -65,9 +65,9 @@ strings:
     shortProductName:    HefftorLinux
     version:             2.0
     shortVersion:        2.0
-    versionedName:       "Hefftor Edition"
-    shortVersionedName:  "Hefftor Edition"
-    bootloaderEntryName: HefftorLinux
+    versionedName:       "Vicyos Edition"
+    shortVersionedName:  "Vicyos Edition"
+    bootloaderEntryName: VIcyosLinux
 #    productUrl:          https://ArcoLinux.info/
 #    supportUrl:          https://ArcoLinuxforum.com/
 #    knownIssuesUrl:      https://ArcoLinux.info/
